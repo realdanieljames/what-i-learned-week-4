@@ -5,7 +5,7 @@ we learned about javascript booleans and indices
 
 booleans are options that will lead to either a True result or a False result option, depending on the code i write. when someone means boolean operator, they mean true or false.
 
-## Boolean Operators
+### Boolean Operators
 - &&  AND
 - <== LESS THAN OR EQUAL TO
 - >== LESS THAN 
@@ -13,6 +13,8 @@ booleans are options that will lead to either a True result or a False result op
 - ||  OR
 - ! NOT
 
+
+### Indices
 indices are defined as a position of  each character in a value.
 From left to right we begin counting from '0', 
 example: 
